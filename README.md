@@ -1,4 +1,5 @@
 Razer Blade 15.6 2021 144hz  Hackintosh
+![截屏2022-03-19 上午10 06 21](https://user-images.githubusercontent.com/5928959/159103107-c6bdf2a3-fc5d-4b67-90bd-e55a868dcb6b.png)
 
 Introduction
 
